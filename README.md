@@ -3,6 +3,12 @@
 My writeups and notes for **SunshineCTF 2026**, focused on web exploitation and offensive security.
 
 ## Challenges
+<img width="867" height="715" alt="Capture d&#39;écran 2026-09-27 151602" src="https://github.com/user-attachments/assets/0793c774-bea4-469e-8a6e-01f65bdf4ac2" />
+
+<img width="1086" height="746" alt="Capture d&#39;écran 2026-09-27 151625" src="https://github.com/user-attachments/assets/4bfea249-4855-4a3d-b25a-72172cf50a70" />
+
+<img width="1197" height="956" alt="Capture d&#39;écran 2026-09-27 151511" src="https://github.com/user-attachments/assets/ac4e643f-dcc7-4d37-8f4a-e2919546f943" />
+
 
 | Challenge | Category | Key Techniques |
 |---|---|---|
