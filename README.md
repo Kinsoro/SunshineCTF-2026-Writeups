@@ -13,7 +13,7 @@ My writeups and notes for **SunshineCTF 2026**, focused on web exploitation and 
 | Challenge | Category | Key Techniques |
 |---|---|---|
 | [CookieCorp](Web/CookieCorp.md) | Web | Cookie Jar Overflow, Cookie Eviction, Cookie Priority, Broken Access Control |
-| [Used Goods of Tomorrow](Web/Used-Goods-of-Tomorrow.md) | Web | GraphQL Introspection, Information Disclosure, Broken Access Control, Business Logic Abuse |
+
 
 ## Repository Structure
 
@@ -21,7 +21,7 @@ My writeups and notes for **SunshineCTF 2026**, focused on web exploitation and 
 SunshineCTF-2026-Writeups/
 └── Web/
     ├── CookieCorp.md
-    └── Used-Goods-of-Tomorrow.md
+    
 ```
 
 ## Focus
